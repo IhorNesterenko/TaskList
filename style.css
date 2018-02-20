@@ -1,0 +1,28 @@
+.fac{
+  text-decoration: none;
+}
+.fa-times{
+  color: red;
+}
+.fa-check{
+  color: green;
+}
+
+.container-fluid{
+  margin-top: 5%;
+}
+
+.counter{
+  display: inline;
+}
+
+body{
+  background-image: url(background.jpg);
+}
+#deleteAll{
+  display: none;
+}
+
+.list-group-item{
+  display: flex;
+}
